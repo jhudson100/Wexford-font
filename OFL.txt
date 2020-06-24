@@ -1,7 +1,7 @@
-The Solitus font
+The Wexville font
 
-Copyright (c) 2019-2020 J Hudson. 
-https://github.com/jhudson100/Solitus-font
+Copyright (c) 2018 J Hudson. 
+https://github.com/jhudson100/Wexville-font
 
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
